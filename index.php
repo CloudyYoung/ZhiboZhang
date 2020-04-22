@@ -81,7 +81,7 @@
 		<div class="container">
 			<div class="row centered">
 				<div class="col-lg-12">
-					<p>Powered by His Best Friend Cloudy Young</p>
+					<p>&copy;Copyright <?php echo date('Y') ?></p>
 				</div>
 			</div>
 		</div>
