@@ -66,7 +66,7 @@
 		
 		?>
 			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<img src="assets/works/C (<?php echo $t ?>).JPG" class="img-responsive">
+				<img src="https://raw.githubusercontent.com/CloudyYoung/zhibo-zhang/master/assets/works/C (<?php echo $t ?>).JPG" class="img-responsive">
 			</div>
 		<?php
 		
